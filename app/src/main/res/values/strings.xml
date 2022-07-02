@@ -3,4 +3,5 @@
     <string name="information">Personal Information</string>
     <string name="enter_name">Enter Name</string>
     <string name="enter_age">Enter Age</string>
+    <string name="author_name">By - Bhawna Chauhan</string>
 </resources>
