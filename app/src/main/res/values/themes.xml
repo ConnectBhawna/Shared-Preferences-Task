@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SharedPrefKotlin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#73062B</item>
+        <item name="colorPrimaryVariant">#EC0554</item>
+        <item name="colorOnPrimary">#DA4B7C</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E47EA1</item>
+        <item name="colorSecondaryVariant">#F4125F</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
